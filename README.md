@@ -1,2 +1,2 @@
 # CurrencyApp
-Simple demo for converting cuurencies
+Simple demo for converting currencies
